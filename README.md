@@ -7,14 +7,16 @@
     <img src="/static/img/logoCTF.png" width="180" height="180"/>
   </div>
   <div>
-    <p>The Cyber Security Competition for Students (<strong>Qualification Round</strong>)</p>
+    <p>The Cyber Security Competition for Students</p>
     <p><strong>By Computer Security Club, VNUHCM - University of Science</strong></p>
-    <p>The competition took place from <strong>19h00 21/05/2021</strong> to <strong>19h00 23/05/2021</strong> (UTC+7).
+    <p>
   </div>
   <img src="/static/img/icon.svg" width="349" height="331"/>
 </div>
 
-## Challenges
+## Qualification Round
+
+### The competition took place from 19h00 21/05/2021 to 19h00 23/05/2021 (UTC+7).
 
 ### Here is list of challenges
 
