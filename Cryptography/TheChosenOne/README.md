@@ -4,3 +4,7 @@ The cryptography technique can be good, but the implementation is bad. Do you kn
 
 **`nc 61.28.237.24 30300`**  
 **`author: pakkunandy`**
+
+## Solution
+
+## Flag
