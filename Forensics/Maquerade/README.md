@@ -112,4 +112,7 @@ for first_char in range(0, 10):
                             exit(0)
 ```
 
+Và tìm được part 2 của flag `897268$}`
 ## Flag
+
+`HCMUS-CTF{Just_Network_Stuff_897268$}`
