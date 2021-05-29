@@ -13,4 +13,10 @@ port:  `30401`
 
 ## Solution
 
+Bài này chỉ đơn giản là test kĩ năng dùng lệnh.
+Đầu tiên `ls -la` để xem các file thì thấy file `flag1.txt`.
+Nên mình `cat ./flag1.txt` được phần đầu của flag `HCMUS-CTF{this`
+Thấy có thư mục `secrets` nên đi vào, tiếp tục liệt kê thì thấy 2 file nữa. Và đủ flag
+
 ## Flag
+`HCMUS-CTF{this_is_used_to_test_linux_command_line}`
